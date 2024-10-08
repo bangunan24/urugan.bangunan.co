@@ -166,7 +166,15 @@
         }
       }
     }
-    {{- end -}}
+    {{- end -}},
+    "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "returnPolicyCategory": "https://schema.org/Refundable",
+      "merchantReturnDays": "1",
+      "returnMethod": "https://schema.org/ReturnInStore",
+      "returnFees": "https://schema.org/FreeReturn",
+      "description": "{{ $randomReturnPolicy }}"
+    }
   },
   "material": "{{ $randomMaterial }}",
   "category": "{{ $randomCategory }}",
@@ -201,15 +209,7 @@
       }
     }
     {{ end }}
-  ],
-  "merchantReturnPolicy": {
-    "@type": "MerchantReturnPolicy",
-    "returnPolicyCategory": "https://schema.org/Refundable",
-    "merchantReturnDays": "1",
-    "returnMethod": "https://schema.org/ReturnInStore",
-    "returnFees": "https://schema.org/FreeReturn",
-    "description": "{{ $randomReturnPolicy }}"
-  }
+  ]
 }
 </script>
 {{- end }}
