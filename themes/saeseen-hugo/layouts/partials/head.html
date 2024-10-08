@@ -73,14 +73,14 @@
       {{ if $index }},{{ end }}"{{ $materials }}"
     {{ end }}
   ],
-  "additionalType": "https://schema.org/PaintingService",
+  "additionalType": "https://schema.org/Service",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "Customer Service",
     "telephone": "{{ .Site.Params.telepon | safeURL }}",
     "areaServed": "ID"
   },
-  "paymentAccepted": [
+  "acceptedPaymentMethod": [
     {{ range $index, $method := .Site.Params.payment_methods }}
       {{ if $index }},{{ end }}"{{ $method }}"
     {{ end }}
@@ -94,6 +94,7 @@
 </script>
 {{- end }}
 {{- if .IsPage }}
+{{ $page := . }}
   {{- $rating := add 4 (div (math.Mod (mul (now.Unix) 11) 10) 10) -}}
   {{- $ratingCount := add 50 (math.Mod (mul (now.Unix) 13) 951) -}}
   {{- $basePrice := .Site.Params.base_price -}}
@@ -128,7 +129,10 @@
     "url": "{{ .Permalink }}",
     "availability": "https://schema.org/InStock",
     "itemCondition": "https://schema.org/NewCondition",
-    "paymentAccepted": ["{{ $randomPayment }}"],
+    "acceptedPaymentMethod": {
+        "@type": "PaymentMethod",
+        "name": "{{ $randomPayment }}"
+      },
     "seller": {
       "@type": "Organization",
       "name": "{{ .Site.Title }}"
@@ -189,18 +193,22 @@
         "ratingValue": "{{ $testimonial.rating }}",
         "bestRating": "5",
         "worstRating": "1"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "{{ $page.Title }}",
+        "description": "{{ $page.Summary | plainify | truncate 160 }}"
       }
     }
     {{ end }}
   ],
-  "keywords": "{{ $allKeywords }}, {{ .Title }}",
-  "hasMerchantReturnPolicy": {
+  "merchantReturnPolicy": {
     "@type": "MerchantReturnPolicy",
     "returnPolicyCategory": "https://schema.org/Refundable",
     "merchantReturnDays": "1",
     "returnMethod": "https://schema.org/ReturnInStore",
-    "returnFees": "None",
-    "returnPolicyDescription": "{{ $randomReturnPolicy }}"
+    "returnFees": "https://schema.org/FreeReturn",
+    "description": "{{ $randomReturnPolicy }}"
   }
 }
 </script>
