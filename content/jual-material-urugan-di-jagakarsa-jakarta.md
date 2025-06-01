@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Jagakarsa Jakarta"
-date: "2024-06-11"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Jagakarsa Jakarta. Bila anda juga memerlukan jasa pemadatannya khususnya bagi Anda yang menggunakan material urugan kecuali dari sirt..."
+title: Jual Material Urugan Di Jagakarsa Jakarta
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Jagakarsa Jakarta. Bila anda juga memerlukan jasa
+  pemadatannya khususnya bagi Anda yang menggunakan material urugan kecuali dari
+  sirt...
 ---
 
 **Jual Material Urugan Di Jagakarsa Jakarta** – Dalam perencanaan konstruksi tak jarang kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dg perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tdk bisa kita biarkan demikian itu saja kemudian kita membangun di atasnya. Melainkan yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi ialah dg menimbunnya, kemudian memadatkannya. Banyak cara untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dengan mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

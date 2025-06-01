@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cibadak Bogor"
-date: "2024-06-19"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cibadak Bogor. Kalau anda juga memerlukan jasa pemadatannya khususnya bagi Anda yang mengaplikasikan material urugan selain dari sirt..."
+title: Jual Material Urugan Di Cibadak Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cibadak Bogor. Kalau anda juga memerlukan jasa
+  pemadatannya khususnya bagi Anda yang mengaplikasikan material urugan selain
+  dari sirt...
 ---
 
 **Jual Material Urugan Di Cibadak Bogor** – Pada perencanaan konstruksi kerap kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Tak jarang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk dapat kita biarkan begitu saja kemudian kita membangun di atasnya. Melainkan yang paling tepat untuk memperbaiki tanah yang seperti kami sebutkan tadi merupakan dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

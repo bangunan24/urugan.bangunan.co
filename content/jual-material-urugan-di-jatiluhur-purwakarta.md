@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Jatiluhur Purwakarta"
-date: "2024-06-18"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Jatiluhur Purwakarta. Bila anda juga memerlukan jasa pemadatannya terkhusus bagi Anda yang mengaplikasikan material urugan kecuali da..."
+title: Jual Material Urugan Di Jatiluhur Purwakarta
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Jatiluhur Purwakarta. Bila anda juga memerlukan jasa
+  pemadatannya terkhusus bagi Anda yang mengaplikasikan material urugan kecuali
+  da...
 ---
 
 **Jual Material Urugan Di Jatiluhur Purwakarta** – Pada pengerjaan konstruksi sering kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Kadang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tdk dapat kita biarkan semacam itu saja kemudian kita membangun di atasnya. Namun yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi ialah dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg Menguruk oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

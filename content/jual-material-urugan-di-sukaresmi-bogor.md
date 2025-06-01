@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Sukaresmi Bogor"
-date: "2024-06-24"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Sukaresmi Bogor. Bila anda juga membutuhkan jasa pemadatannya khususnya bagi Anda yang menggunakan material urukan selain dari sirtu,..."
+title: Jual Material Urugan Di Sukaresmi Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Sukaresmi Bogor. Bila anda juga membutuhkan jasa
+  pemadatannya khususnya bagi Anda yang menggunakan material urukan selain dari
+  sirtu,...
 ---
 
 **Jual Material Urugan Di Sukaresmi Bogor** – Dalam perencanaan konstruksi kerap kali kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dg perencanaan. Tak jarang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak bisa kita biarkan seperti itu saja kemudian kita membangun di atasnya. Tapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi yakni dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg Menguruk oleh material khusus untuk urukan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

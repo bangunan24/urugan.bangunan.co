@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Subang"
-date: "2024-06-15"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Subang. Jikalau anda juga membutuhkan jasa pemadatannya terkhusus bagi Anda yang menerapkan material urukan selain dari sirtu, karena..."
+title: Jual Material Urugan Di Subang
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Subang. Jikalau anda juga membutuhkan jasa
+  pemadatannya terkhusus bagi Anda yang menerapkan material urukan selain dari
+  sirtu, karena...
 ---
 
 **Jual Material Urugan Di Subang** – Dalam pelaksanaan konstruksi acap kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dg perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tidak dapat kita biarkan semacam itu saja kemudian kita membangun di atasnya. Namun yang paling ideal untuk mensiasati tanah yang seperti kami sebutkan tadi yaitu dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg menimbun oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

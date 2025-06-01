@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Margajaya Bogor"
-date: "2024-06-03"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Margajaya Bogor. Jika anda juga membutuhkan jasa pemadatannya terutamanya bagi Anda yang menggunakan material urukan selain dari sirt..."
+title: Jual Material Urugan Di Margajaya Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Margajaya Bogor. Jika anda juga membutuhkan jasa
+  pemadatannya terutamanya bagi Anda yang menggunakan material urukan selain
+  dari sirt...
 ---
 
 **Jual Material Urugan Di Margajaya Bogor** – Dalam pelaksanaan konstruksi sering kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dengan perencanaan. Tak jarang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk dapat kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tapi yang paling tepat untuk memperbaiki tanah yang seperti kami sebutkan tadi adalah dg menimbunnya, kemudian memadatkannya. Banyak cara untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg Menguruk oleh material khusus untuk urukan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

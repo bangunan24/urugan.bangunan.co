@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cisauk Tangerang"
-date: "2024-06-12"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cisauk Tangerang. Seandainya anda juga memerlukan jasa pemadatannya terutama bagi Anda yang memakai material urugan selain dari sirtu..."
+title: Jual Material Urugan Di Cisauk Tangerang
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cisauk Tangerang. Seandainya anda juga memerlukan jasa
+  pemadatannya terutama bagi Anda yang memakai material urugan selain dari
+  sirtu...
 ---
 
 **Jual Material Urugan Di Cisauk Tangerang** – Pada pengerjaan konstruksi acap kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dg perencanaan. Tak jarang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak dapat kita biarkan begitu saja kemudian kita membangun di atasnya. Melainkan yang paling tepat untuk memperbaiki tanah yang seperti kami sebutkan tadi ialah dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg mengurug oleh material khusus untuk urukan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

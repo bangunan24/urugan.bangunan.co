@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Tanah Sareal Jakarta"
-date: "2024-06-14"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Tanah Sareal Jakarta. Jikalau anda juga membutuhkan jasa pemadatannya khususnya bagi Anda yang memakai material urugan kecuali dari s..."
+title: Jual Material Urugan Di Tanah Sareal Jakarta
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Tanah Sareal Jakarta. Jikalau anda juga membutuhkan
+  jasa pemadatannya khususnya bagi Anda yang memakai material urugan kecuali
+  dari s...
 ---
 
 **Jual Material Urugan Di Tanah Sareal Jakarta** – Pada pelaksanaan konstruksi kerap kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk bisa kita biarkan seperti itu saja kemudian kita membangun di atasnya. Tapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi merupakan dg menimbunnya, kemudian memadatkannya. Banyak cara untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dengan Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

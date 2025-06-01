@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Bondongan Bogor"
-date: "2024-06-30"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Bondongan Bogor. Sekiranya anda juga memerlukan jasa pemadatannya terkhusus bagi Anda yang menggunakan material urugan kecuali dari s..."
+title: Jual Material Urugan Di Bondongan Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Bondongan Bogor. Sekiranya anda juga memerlukan jasa
+  pemadatannya terkhusus bagi Anda yang menggunakan material urugan kecuali dari
+  s...
 ---
 
 **Jual Material Urugan Di Bondongan Bogor** – Dalam pelaksanaan konstruksi kerap kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk dapat kita biarkan seperti itu saja kemudian kita membangun di atasnya. Tetapi yang paling pas untuk mensiasati tanah yang seperti kami sebutkan tadi yaitu dg menimbunnya, kemudian memadatkannya. Banyak metode untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg Menguruk oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

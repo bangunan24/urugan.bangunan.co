@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cibogor Bogor"
-date: "2024-06-12"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cibogor Bogor. Bila anda juga membutuhkan jasa pemadatannya terkhusus bagi Anda yang menggunakan material urugan selain dari sirtu, m..."
+title: Jual Material Urugan Di Cibogor Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cibogor Bogor. Bila anda juga membutuhkan jasa
+  pemadatannya terkhusus bagi Anda yang menggunakan material urugan selain dari
+  sirtu, m...
 ---
 
 **Jual Material Urugan Di Cibogor Bogor** – Pada pelaksanaan konstruksi kerap kali kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dg perencanaan. Kadang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk bisa kita biarkan demikian itu saja kemudian kita membangun di atasnya. Melainkan yang paling ideal untuk memperbaiki tanah yang seperti kami sebutkan tadi ialah dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cisarua Bogor"
-date: "2024-06-22"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cisarua Bogor. Sekiranya anda juga membutuhkan jasa pemadatannya terlebih bagi Anda yang memakai material urukan kecuali dari sirtu,..."
+title: Jual Material Urugan Di Cisarua Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cisarua Bogor. Sekiranya anda juga membutuhkan jasa
+  pemadatannya terlebih bagi Anda yang memakai material urukan kecuali dari
+  sirtu,...
 ---
 
 **Jual Material Urugan Di Cisarua Bogor** – Dalam pelaksanaan konstruksi sering kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dg perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk bisa kita biarkan semacam itu saja kemudian kita membangun di atasnya. Melainkan yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi yaitu dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dengan menimbun oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

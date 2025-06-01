@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Kedung Badak Bogor"
-date: "2024-06-02"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Kedung Badak Bogor. Jika anda juga memerlukan jasa pemadatannya khususnya bagi Anda yang memakai material urukan selain dari sirtu, k..."
+title: Jual Material Urugan Di Kedung Badak Bogor
+date: '2025-06-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Kedung Badak Bogor. Jika anda juga memerlukan jasa
+  pemadatannya khususnya bagi Anda yang memakai material urukan selain dari
+  sirtu, k...
 ---
 
 **Jual Material Urugan Di Kedung Badak Bogor** – Pada pengerjaan konstruksi acap kali kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Tak jarang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak bisa kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tapi yang paling tepat untuk memperbaiki tanah yang seperti kami sebutkan tadi yakni dg menimbunnya, kemudian memadatkannya. Banyak metode untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg mengurug oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.
