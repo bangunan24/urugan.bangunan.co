@@ -1,56 +1,57 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Joko
+    name: Budi
     message: >-
-      Saya membeli makadam dari urugan.bangunan.co untuk proyek jalan. Kualitas
-      material terbaik, dan pengirimannya cepat dan aman.
+      Material dari urugan.bangunan.co sesuai untuk proyek pemadatan jalan saya.
+      Proses pembelian dan pengirimannya tepat waktu serta aman.
     response: >-
-      Terima kasih atas testimoni Anda! Kami senang dapat menyediakan material
-      berkualitas untuk proyek Anda.
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan layanan kami.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Maya
-    message: >-
-      urugan.bangunan.co sangat berperan penting dalam memilih material
-      pengurugan yang sesuai untuk pembangunan saya. Material yang saya beli
-      terbaik dan sesuai dengan ekspektasi saya.
-    response: >-
-      Terima kasih atas testimoni positifnya! Kami senang dapat membantu
-      mewujudkan proyek Anda dengan material terbaik.
-    rating: 5
-  - avatar: /images/admin/avatar3.png
-    name: Joko
-    message: >-
-      Material urugan tanah dari urugan.bangunan.co cocok untuk proyek urugan
-      perumahan saya. Proses pembelian dan pengirimannya cepat serta aman.
-    response: >-
-      Kami sangat senang mendengar bahwa Anda puas dengan layanan kami. Terima
-      kasih atas ulasannya!
-    rating: 4
-  - avatar: /images/admin/avatar4.png
-    name: Yusuf
-    message: >-
-      Material yang saya beli dari urugan.bangunan.co sangat tepat untuk proyek
-      rumah saya. Proses pengirimannya cepat dan aman.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
-      material terbaik.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
     name: Nina
     message: >-
-      Saya membeli material urugan dari urugan.bangunan.co untuk proyek rumah.
-      Kualitas material sangat baik, dan pengirimannya tepat waktu.
+      urugan.bangunan.co sangat berperan penting dalam memilih material urugan
+      yang sesuai untuk proyek saya. Material yang saya beli terbaik dan sesuai
+      dengan ekspektasi saya.
     response: >-
-      Terima kasih atas kepercayaannya! Kami senang dapat menyediakan material
-      berkualitas untuk proyek Anda.
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan material kami.
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Agus
+    message: >-
+      Material urugan tanah dari urugan.bangunan.co tepat untuk proyek urugan
+      perumahan saya. Proses pembelian dan pengirimannya lancar serta sesuai
+      harapan.
+    response: >-
+      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
+      kepercayaannya!
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Deni
+    message: >-
+      Pelayanan urugan.bangunan.co terbaik. Material sirtu yang saya beli sangat
+      berkualitas dan sesuai dengan harapan proyek saya.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      material berkualitas.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Ratna
+    message: >-
+      Material dari urugan.bangunan.co cocok dengan kebutuhan proyek jalan saya.
+      Proses pengirimannya cepat dan aman.
+    response: >-
+      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      atas ulasannya!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Eko
+    name: Agus
     message: >-
-      Saya sangat puas dengan pelayanan urugan.bangunan.co. Material tanah urug
-      yang saya beli memenuhi kebutuhan proyek saya.
+      Saya sangat puas dengan pelayanan urugan.bangunan.co. Material urugan yang
+      saya beli sesuai dengan kebutuhan proyek saya.
     response: >-
-      Terima kasih, kami senang dapat menyediakan material terbaik untuk proyek
-      Anda.
+      Kami sangat menghargai ulasan positif Anda. Terima kasih atas
+      kepercayaannya!
     rating: 5
