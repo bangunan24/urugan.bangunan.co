@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Serang Banten"
-date: "2024-07-15"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Serang Banten. Apabila anda juga memerlukan jasa pemadatannya terkhusus bagi Anda yang mengaplikasikan material urugan kecuali dari s..."
+title: Jual Material Urugan Di Serang Banten
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Serang Banten. Apabila anda juga memerlukan jasa
+  pemadatannya terkhusus bagi Anda yang mengaplikasikan material urugan kecuali
+  dari s...
 ---
 
 **Jual Material Urugan Di Serang Banten** – Pada perencanaan konstruksi tak jarang kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dengan perencanaan. Sering kali kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak bisa kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tetapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi yaitu dengan menimbunnya, kemudian memadatkannya. Banyak cara untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg menimbun oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

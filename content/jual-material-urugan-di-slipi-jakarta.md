@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Slipi Jakarta"
-date: "2024-07-30"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Slipi Jakarta. Kalau anda juga memerlukan jasa pemadatannya terutama bagi Anda yang mengaplikasikan material urukan kecuali dari sirt..."
+title: Jual Material Urugan Di Slipi Jakarta
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Slipi Jakarta. Kalau anda juga memerlukan jasa
+  pemadatannya terutama bagi Anda yang mengaplikasikan material urukan kecuali
+  dari sirt...
 ---
 
 **Jual Material Urugan Di Slipi Jakarta** – Pada perencanaan konstruksi sering kali kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dg perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak dapat kita biarkan demikian itu saja kemudian kita membangun di atasnya. Melainkan yang paling pas untuk mensiasati tanah yang seperti kami sebutkan tadi yaitu dengan menimbunnya, kemudian memadatkannya. Banyak metode untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

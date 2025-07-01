@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Kedaung Kaliangke"
-date: "2024-07-13"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Kedaung Kaliangke. Bila anda juga memerlukan jasa pemadatannya terkhusus bagi Anda yang mengaplikasikan material urukan selain dari s..."
+title: Jual Material Urugan Di Kedaung Kaliangke
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Kedaung Kaliangke. Bila anda juga memerlukan jasa
+  pemadatannya terkhusus bagi Anda yang mengaplikasikan material urukan selain
+  dari s...
 ---
 
 **Jual Material Urugan Di Kedaung Kaliangke** – Dalam pengerjaan konstruksi kerap kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dengan perencanaan. Kadang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk dapat kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tetapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi adalah dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

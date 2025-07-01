@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Majalaya Karawang"
-date: "2024-07-11"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Majalaya Karawang. Kalau anda juga memerlukan jasa pemadatannya terkhusus bagi Anda yang menerapkan material urukan selain dari sirtu..."
+title: Jual Material Urugan Di Majalaya Karawang
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Majalaya Karawang. Kalau anda juga memerlukan jasa
+  pemadatannya terkhusus bagi Anda yang menerapkan material urukan selain dari
+  sirtu...
 ---
 
 **Jual Material Urugan Di Majalaya Karawang** – Dalam pelaksanaan konstruksi acap kali kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Kadang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tidak bisa kita biarkan seperti itu saja kemudian kita membangun di atasnya. Tapi yang paling ideal untuk memperbaiki tanah yang seperti kami sebutkan tadi merupakan dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

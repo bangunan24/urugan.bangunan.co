@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Loji Bogor"
-date: "2024-07-28"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Loji Bogor. Jika anda juga memerlukan jasa pemadatannya terutama bagi Anda yang mengaplikasikan material urukan kecuali dari sirtu, k..."
+title: Jual Material Urugan Di Loji Bogor
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Loji Bogor. Jika anda juga memerlukan jasa
+  pemadatannya terutama bagi Anda yang mengaplikasikan material urukan kecuali
+  dari sirtu, k...
 ---
 
 **Jual Material Urugan Di Loji Bogor** – Dalam pengerjaan konstruksi tak jarang kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dengan perencanaan. Tak jarang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tdk bisa kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tetapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi adalah dg menimbunnya, kemudian memadatkannya. Banyak cara untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

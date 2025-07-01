@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Klari Karawang"
-date: "2024-07-10"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Klari Karawang. Jika anda juga membutuhkan jasa pemadatannya terlebih bagi Anda yang menerapkan material urukan kecuali dari sirtu, m..."
+title: Jual Material Urugan Di Klari Karawang
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Klari Karawang. Jika anda juga membutuhkan jasa
+  pemadatannya terlebih bagi Anda yang menerapkan material urukan kecuali dari
+  sirtu, m...
 ---
 
 **Jual Material Urugan Di Klari Karawang** – Dalam pengerjaan konstruksi tak jarang kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dg perencanaan. Tak jarang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak dapat kita biarkan begitu saja kemudian kita membangun di atasnya. Tetapi yang paling ideal untuk mensiasati tanah yang seperti kami sebutkan tadi yakni dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dengan Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cibatu Purwakarta"
-date: "2024-07-03"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cibatu Purwakarta. Jika anda juga membutuhkan jasa pemadatannya khususnya bagi Anda yang menerapkan material urugan selain dari sirtu..."
+title: Jual Material Urugan Di Cibatu Purwakarta
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cibatu Purwakarta. Jika anda juga membutuhkan jasa
+  pemadatannya khususnya bagi Anda yang menerapkan material urugan selain dari
+  sirtu...
 ---
 
 **Jual Material Urugan Di Cibatu Purwakarta** – Pada pelaksanaan konstruksi kerap kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dg perencanaan. Kadang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tdk dapat kita biarkan demikian itu saja kemudian kita membangun di atasnya. Melainkan yang paling tepat untuk memperbaiki tanah yang seperti kami sebutkan tadi ialah dg menimbunnya, kemudian memadatkannya. Banyak metode untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

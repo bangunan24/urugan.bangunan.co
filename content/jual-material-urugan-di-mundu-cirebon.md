@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Mundu Cirebon"
-date: "2024-07-19"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Mundu Cirebon. Bila anda juga membutuhkan jasa pemadatannya terutama bagi Anda yang mengaplikasikan material urugan kecuali dari sirt..."
+title: Jual Material Urugan Di Mundu Cirebon
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Mundu Cirebon. Bila anda juga membutuhkan jasa
+  pemadatannya terutama bagi Anda yang mengaplikasikan material urugan kecuali
+  dari sirt...
 ---
 
 **Jual Material Urugan Di Mundu Cirebon** – Dalam pelaksanaan konstruksi tak jarang kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dengan perencanaan. Kadang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk dapat kita biarkan begitu saja kemudian kita membangun di atasnya. Tetapi yang paling ideal untuk mensiasati tanah yang seperti kami sebutkan tadi yakni dg menimbunnya, kemudian memadatkannya. Banyak metode untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg Menguruk oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

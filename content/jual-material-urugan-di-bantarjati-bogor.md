@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Bantarjati Bogor"
-date: "2024-07-09"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Bantarjati Bogor. Kalau anda juga membutuhkan jasa pemadatannya terutama bagi Anda yang menggunakan material urugan selain dari sirtu..."
+title: Jual Material Urugan Di Bantarjati Bogor
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Bantarjati Bogor. Kalau anda juga membutuhkan jasa
+  pemadatannya terutama bagi Anda yang menggunakan material urugan selain dari
+  sirtu...
 ---
 
 **Jual Material Urugan Di Bantarjati Bogor** – Pada perencanaan konstruksi sering kali kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dg perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tdk dapat kita biarkan semacam itu saja kemudian kita membangun di atasnya. Melainkan yang paling ideal untuk mensiasati tanah yang seperti kami sebutkan tadi ialah dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dengan mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

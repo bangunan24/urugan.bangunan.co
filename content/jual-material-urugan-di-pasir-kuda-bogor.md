@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Pasir Kuda Bogor"
-date: "2024-07-06"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Pasir Kuda Bogor. Seandainya anda juga memerlukan jasa pemadatannya terlebih bagi Anda yang memakai material urukan kecuali dari sirt..."
+title: Jual Material Urugan Di Pasir Kuda Bogor
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Pasir Kuda Bogor. Seandainya anda juga memerlukan jasa
+  pemadatannya terlebih bagi Anda yang memakai material urukan kecuali dari
+  sirt...
 ---
 
 **Jual Material Urugan Di Pasir Kuda Bogor** – Pada pengerjaan konstruksi kerap kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dg perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tidak bisa kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tetapi yang paling ideal untuk memperbaiki tanah yang seperti kami sebutkan tadi adalah dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dengan menimbun oleh material khusus untuk urukan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

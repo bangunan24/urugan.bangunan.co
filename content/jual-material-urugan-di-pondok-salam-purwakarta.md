@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Pondok Salam Purwakarta"
-date: "2024-07-03"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Pondok Salam Purwakarta. Kalau anda juga memerlukan jasa pemadatannya terutama bagi Anda yang menggunakan material urukan kecuali dar..."
+title: Jual Material Urugan Di Pondok Salam Purwakarta
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Pondok Salam Purwakarta. Kalau anda juga memerlukan
+  jasa pemadatannya terutama bagi Anda yang menggunakan material urukan kecuali
+  dar...
 ---
 
 **Jual Material Urugan Di Pondok Salam Purwakarta** – Dalam pelaksanaan konstruksi kerap kali kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Sering kali kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tidak bisa kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tapi yang paling ideal untuk memperbaiki tanah yang seperti kami sebutkan tadi ialah dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg mengurug oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Gunung Batu Bogor"
-date: "2024-07-27"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Gunung Batu Bogor. Sekiranya anda juga memerlukan jasa pemadatannya khususnya bagi Anda yang memakai material urukan kecuali dari sir..."
+title: Jual Material Urugan Di Gunung Batu Bogor
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Gunung Batu Bogor. Sekiranya anda juga memerlukan jasa
+  pemadatannya khususnya bagi Anda yang memakai material urukan kecuali dari
+  sir...
 ---
 
 **Jual Material Urugan Di Gunung Batu Bogor** – Dalam pelaksanaan konstruksi sering kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dg perencanaan. Sering kali kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk bisa kita biarkan begitu saja kemudian kita membangun di atasnya. Tapi yang paling pas untuk mensiasati tanah yang seperti kami sebutkan tadi adalah dg menimbunnya, kemudian memadatkannya. Banyak cara untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dengan Menguruk oleh material khusus untuk urukan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

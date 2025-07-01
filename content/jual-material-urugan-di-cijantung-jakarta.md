@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cijantung Jakarta"
-date: "2024-07-22"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cijantung Jakarta. Bila anda juga membutuhkan jasa pemadatannya terutama bagi Anda yang menggunakan material urukan kecuali dari sirt..."
+title: Jual Material Urugan Di Cijantung Jakarta
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cijantung Jakarta. Bila anda juga membutuhkan jasa
+  pemadatannya terutama bagi Anda yang menggunakan material urukan kecuali dari
+  sirt...
 ---
 
 **Jual Material Urugan Di Cijantung Jakarta** – Pada pelaksanaan konstruksi acap kali kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dg perencanaan. Tak jarang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk bisa kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tapi yang paling pas untuk mensiasati tanah yang seperti kami sebutkan tadi yakni dengan menimbunnya, kemudian memadatkannya. Banyak sistem untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dengan mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

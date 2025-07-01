@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Gunung Sindur"
-date: "2024-07-16"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Gunung Sindur. Kalau anda juga membutuhkan jasa pemadatannya terlebih bagi Anda yang memakai material urugan selain dari sirtu, karen..."
+title: Jual Material Urugan Di Gunung Sindur
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Gunung Sindur. Kalau anda juga membutuhkan jasa
+  pemadatannya terlebih bagi Anda yang memakai material urugan selain dari
+  sirtu, karen...
 ---
 
 **Jual Material Urugan Di Gunung Sindur** – Pada pelaksanaan konstruksi sering kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dengan perencanaan. Sering kali kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk bisa kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tetapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi merupakan dg menimbunnya, kemudian memadatkannya. Banyak cara untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

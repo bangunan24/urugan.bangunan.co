@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Bojong Purwakarta"
-date: "2024-07-31"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Bojong Purwakarta. Seandainya anda juga memerlukan jasa pemadatannya terutama bagi Anda yang menggunakan material urukan kecuali dari..."
+title: Jual Material Urugan Di Bojong Purwakarta
+date: '2025-07-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Bojong Purwakarta. Seandainya anda juga memerlukan
+  jasa pemadatannya terutama bagi Anda yang menggunakan material urukan kecuali
+  dari...
 ---
 
 **Jual Material Urugan Di Bojong Purwakarta** – Pada perencanaan konstruksi tak jarang kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tdk sesuai dengan perencanaan. Sering kali kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk dapat kita biarkan begitu saja kemudian kita membangun di atasnya. Melainkan yang paling pas untuk mensiasati tanah yang seperti kami sebutkan tadi merupakan dg menimbunnya, kemudian memadatkannya. Banyak metode untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.
