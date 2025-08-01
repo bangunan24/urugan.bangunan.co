@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Mangga Besar Jakarta"
-date: "2024-08-26"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Mangga Besar Jakarta. Bila anda juga memerlukan jasa pemadatannya terlebih bagi Anda yang memakai material urukan kecuali dari sirtu,..."
+title: Jual Material Urugan Di Mangga Besar Jakarta
+date: '2025-08-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Mangga Besar Jakarta. Bila anda juga memerlukan jasa
+  pemadatannya terlebih bagi Anda yang memakai material urukan kecuali dari
+  sirtu,...
 ---
 
 **Jual Material Urugan Di Mangga Besar Jakarta** – Dalam pelaksanaan konstruksi tak jarang kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dengan perencanaan. Kadang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk bisa kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tetapi yang paling tepat untuk mensiasati tanah yang seperti kami sebutkan tadi ialah dengan menimbunnya, kemudian memadatkannya. Banyak cara untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg menimbun oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

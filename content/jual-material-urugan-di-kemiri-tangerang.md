@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Kemiri Tangerang"
-date: "2024-08-15"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Kemiri Tangerang. Bila anda juga membutuhkan jasa pemadatannya terutama bagi Anda yang memakai material urugan selain dari sirtu, kar..."
+title: Jual Material Urugan Di Kemiri Tangerang
+date: '2025-08-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Kemiri Tangerang. Bila anda juga membutuhkan jasa
+  pemadatannya terutama bagi Anda yang memakai material urugan selain dari
+  sirtu, kar...
 ---
 
 **Jual Material Urugan Di Kemiri Tangerang** – Pada perencanaan konstruksi sering kali kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sebagaimana dengan perencanaan. Tak jarang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk dapat kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tetapi yang paling tepat untuk mensiasati tanah yang seperti kami sebutkan tadi yaitu dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya adalah dg menimbun oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Purwakarta"
-date: "2024-08-29"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Purwakarta. Kalau anda juga membutuhkan jasa pemadatannya khususnya bagi Anda yang memakai material urugan selain dari sirtu, maka ka..."
+title: Jual Material Urugan Di Purwakarta
+date: '2025-08-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Purwakarta. Kalau anda juga membutuhkan jasa
+  pemadatannya khususnya bagi Anda yang memakai material urugan selain dari
+  sirtu, maka ka...
 ---
 
 **Jual Material Urugan Di Purwakarta** – Dalam perencanaan konstruksi tak jarang kita menemukan kondisi tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dg perencanaan. Kadang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk dapat kita biarkan seperti itu saja kemudian kita membangun di atasnya. Namun yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi yaitu dg menimbunnya, kemudian memadatkannya. Banyak cara untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dengan Menguruk oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

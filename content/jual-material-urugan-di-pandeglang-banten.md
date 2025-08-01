@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Pandeglang Banten"
-date: "2024-08-08"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Pandeglang Banten. Bila anda juga memerlukan jasa pemadatannya khususnya bagi Anda yang menggunakan material urukan kecuali dari sirt..."
+title: Jual Material Urugan Di Pandeglang Banten
+date: '2025-08-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Pandeglang Banten. Bila anda juga memerlukan jasa
+  pemadatannya khususnya bagi Anda yang menggunakan material urukan kecuali dari
+  sirt...
 ---
 
 **Jual Material Urugan Di Pandeglang Banten** – Dalam pelaksanaan konstruksi sering kali kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dengan perencanaan. Tak jarang kita menemukan tanah yang dalam posisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Situasi seperti ini tentunya tdk dapat kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tetapi yang paling pas untuk mensiasati tanah yang seperti kami sebutkan tadi yaitu dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk Menguruk atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg menimbun oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.
