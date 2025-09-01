@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Cilegon"
-date: "2024-09-12"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Cilegon. Jikalau anda juga membutuhkan jasa pemadatannya terutamanya bagi Anda yang menerapkan material urugan kecuali dari sirtu, ma..."
+title: Jual Material Urugan Di Cilegon
+date: '2025-09-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Cilegon. Jikalau anda juga membutuhkan jasa
+  pemadatannya terutamanya bagi Anda yang menerapkan material urugan kecuali
+  dari sirtu, ma...
 ---
 
 **Jual Material Urugan Di Cilegon** – Pada pengerjaan konstruksi sering kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tdk sebagaimana dengan perencanaan. Kadang kita menemukan tanah yang kondisinya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tidak bisa kita biarkan semacam itu saja kemudian kita membangun di atasnya. Tapi yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi yaitu dengan menimbunnya, kemudian memadatkannya. Banyak metode untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dengan menimbun oleh material khusus untuk urukan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.

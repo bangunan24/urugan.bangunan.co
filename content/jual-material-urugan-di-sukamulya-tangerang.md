@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Sukamulya Tangerang"
-date: "2024-09-10"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Sukamulya Tangerang. Kalau anda juga memerlukan jasa pemadatannya terutama bagi Anda yang mengaplikasikan material urugan selain dari..."
+title: Jual Material Urugan Di Sukamulya Tangerang
+date: '2025-09-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Sukamulya Tangerang. Kalau anda juga memerlukan jasa
+  pemadatannya terutama bagi Anda yang mengaplikasikan material urugan selain
+  dari...
 ---
 
 **Jual Material Urugan Di Sukamulya Tangerang** – Dalam pelaksanaan konstruksi sering kita menemukan keadaan tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dg perencanaan. Tak jarang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Keadaan seperti ini tentunya tdk bisa kita biarkan begitu saja kemudian kita membangun di atasnya. Namun yang paling pas untuk memperbaiki tanah yang seperti kami sebutkan tadi yaitu dg menimbunnya, kemudian memadatkannya. Banyak cara untuk mengurug atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dg mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah urug, berangkal, batu kapur, puing dan yang sejenis.

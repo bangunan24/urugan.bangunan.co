@@ -1,9 +1,12 @@
 ---
-title: "Jual Material Urugan Di Genteng Bogor"
-date: "2024-09-09"
-categories: 
-  - "harga"
-description: "Jual Material Urugan Di Genteng Bogor. Kalau anda juga memerlukan jasa pemadatannya terutamanya bagi Anda yang menggunakan material urukan selain dari sirtu,..."
+title: Jual Material Urugan Di Genteng Bogor
+date: '2025-09-01'
+categories:
+  - harga
+description: >-
+  Jual Material Urugan Di Genteng Bogor. Kalau anda juga memerlukan jasa
+  pemadatannya terutamanya bagi Anda yang menggunakan material urukan selain
+  dari sirtu,...
 ---
 
 **Jual Material Urugan Di Genteng Bogor** – Pada pelaksanaan konstruksi tak jarang kita menemukan situasi tanah yang akan dibangun di atasnya sebuah bangunan tidak sesuai dengan perencanaan. Kadang kita menemukan tanah yang keadaannya miring, tanah yang labil, tanah yang becek dan juga tanah yang terlalu rendah. Kondisi seperti ini tentunya tidak dapat kita biarkan demikian itu saja kemudian kita membangun di atasnya. Tetapi yang paling ideal untuk mensiasati tanah yang seperti kami sebutkan tadi yakni dg menimbunnya, kemudian memadatkannya. Banyak sistem untuk menimbun atau memadatkan tanah yang labil, becek, miring dan terlalu rendah diantaranya ialah dengan mengurug oleh material khusus untuk urugan, seperti; sirtu, tanah uruk, berangkal, batu kapur, puing dan yang sejenis.
