@@ -1,56 +1,55 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Budi
-    message: >-
-      Material dari urugan.bangunan.co luar biasa untuk proyek pembangunan jalan
-      saya. Proses pembelian dan pengirimannya cepat serta tanpa hambatan.
-    response: >-
-      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan material
-      berkualitas untuk proyek Anda.
-    rating: 4
-  - avatar: /images/admin/avatar2.png
-    name: Lina
-    message: >-
-      urugan.bangunan.co sangat berperan penting dalam memilih material urugan
-      yang sesuai untuk proyek saya. Material yang saya beli sangat cocok dan
-      sesuai dengan ekspektasi saya.
-    response: >-
-      Terima kasih atas testimoni positifnya! Kami senang dapat membantu
-      mewujudkan proyek Anda dengan material terbaik.
-    rating: 5
-  - avatar: /images/admin/avatar3.png
-    name: Joko
-    message: >-
-      Material urugan tanah dari urugan.bangunan.co cocok untuk proyek
-      pengurugan saya. Proses pembelian dan pengirimannya tepat waktu serta
-      aman.
-    response: >-
-      Terima kasih, atas kepercayaannya! Kami senang dapat menyediakan material
-      berkualitas tinggi untuk proyek Anda.
-    rating: 4
-  - avatar: /images/admin/avatar4.png
-    name: Rizki
-    message: >-
-      Pelayanan urugan.bangunan.co luar biasa. Material sirtu yang saya beli
-      sangat baik dan sesuai dengan rencana proyek saya.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
-      material terbaik.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Ika
-    message: >-
-      Material dari urugan.bangunan.co cocok dengan kebutuhan proyek pengurugan
-      rumah saya. Proses pengirimannya cepat dan aman.
-    response: >-
-      Kami sangat menghargai ulasan positif dari Anda. Senang bekerja sama
-      dengan Anda!
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Eko
     message: >-
-      urugan.bangunan.co sangat membantu saya dalam memilih material sirtu.
-      Material yang saya beli sesuai untuk proyek perumahan saya.
+      Saya membeli material bangunan dari urugan.bangunan.co untuk proyek jalan.
+      Kualitas material terbaik, dan pengirimannya cepat dan aman.
+    response: >-
+      Kami berkomitmen untuk memberikan material berkualitas tinggi dengan
+      layanan optimal. Terima kasih atas kepercayaannya
+    rating: 4
+  - avatar: /images/admin/avatar2.png
+    name: Ika
+    message: >-
+      Pelayanan dari urugan.bangunan.co sangat baik, dan material yang saya
+      pesan berkualitas untuk proyek rumah saya.
+    response: >-
+      Kami selalu berusaha menyediakan pelayanan dan material terbaik. Terima
+      kasih, atas ulasannya!
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Rudi
+    message: >-
+      Saya sangat puas dengan kualitas material berangkal dari
+      urugan.bangunan.co. Materialnya berkualitas dan cocok untuk proyek
+      pemadatan tanah saya.
+    response: >-
+      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
+      kepercayaannya!
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Iwan
+    message: >-
+      Material yang saya beli dari urugan.bangunan.co sangat tepat untuk proyek
+      pembangunan saya. Proses pengirimannya tepat waktu dan sesuai harapan.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      material berkualitas.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Ratna
+    message: >-
+      Saya membeli material urugan dari urugan.bangunan.co untuk proyek rumah.
+      Kualitas material memuaskan, dan pengirimannya tepat waktu.
+    response: >-
+      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      atas ulasannya!
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Budi
+    message: >-
+      Saya sangat puas dengan pelayanan urugan.bangunan.co. Material urugan yang
+      saya beli sesuai dengan kebutuhan proyek saya.
     response: >-
       Kami sangat menghargai ulasan positif Anda. Terima kasih atas
       kepercayaannya!
