@@ -1,56 +1,56 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Budi
+    name: Eko
     message: >-
       Saya membeli makadam dari urugan.bangunan.co untuk proyek jalan. Kualitas
-      material terbaik, dan pengirimannya tepat waktu.
+      material memuaskan, dan pengirimannya sesuai jadwal.
     response: >-
       Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
       dengan layanan kami.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Siti
+    name: Lina
     message: >-
-      urugan.bangunan.co sangat membantu dalam memilih material urugan yang
-      sesuai untuk proyek saya. Material yang saya beli memuaskan dan sesuai
-      dengan ekspektasi saya.
+      urugan.bangunan.co sangat membantu dalam memilih material pengurugan yang
+      sesuai untuk pembangunan saya. Material yang saya beli sangat cocok dan
+      sesuai dengan ekspektasi saya.
     response: >-
-      Kami selalu berusaha menyediakan pelayanan dan material terbaik. Terima
-      kasih, atas ulasannya!
+      Terima kasih atas kepercayaannya! Kami senang dapat membantu mewujudkan
+      proyek Anda dengan material berkualitas tinggi.
     rating: 5
   - avatar: /images/admin/avatar3.png
     name: Fajar
     message: >-
-      Saya sangat puas dengan kualitas material urugan dari urugan.bangunan.co.
-      Materialnya luar biasa dan cocok untuk proyek urugan saya.
+      Saya sangat puas dengan kualitas material makadam dari urugan.bangunan.co.
+      Materialnya luar biasa dan cocok untuk proyek pembangunan saya.
     response: >-
       Senang mendengar Anda puas dengan produk kami. Terima kasih atas
       kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Deni
+    name: Iwan
     message: >-
-      Material yang saya beli dari urugan.bangunan.co sangat cocok untuk proyek
-      rumah saya. Proses pengirimannya tepat waktu dan sesuai harapan.
+      Pelayanan urugan.bangunan.co terbaik. Material tanah urug yang saya beli
+      sangat memuaskan dan sesuai dengan kebutuhan proyek saya.
     response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
-      material berkualitas.
+      Kami berkomitmen untuk menyediakan material terbaik dengan layanan
+      terbaik. Terima kasih atas ulasannya!
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Lina
+    name: Dewi
     message: >-
-      Saya membeli material urugan dari urugan.bangunan.co untuk proyek jalan.
-      Kualitas material memuaskan, dan pengirimannya tepat waktu.
+      Saya membeli material urugan dari urugan.bangunan.co untuk proyek
+      pembangunan. Kualitas material memuaskan, dan pengirimannya tepat waktu.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas ulasannya!
+      Kami sangat menghargai ulasan positif dari Anda. Senang bekerja sama
+      dengan Anda!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Hendra
+    name: Fajar
     message: >-
-      urugan.bangunan.co sangat membantu saya dalam memilih material urugan.
+      urugan.bangunan.co sangat membantu saya dalam memilih material berangkal.
       Material yang saya beli sangat cocok untuk proyek perumahan saya.
     response: >-
-      Terima kasih, kami senang dapat menyediakan material terbaik untuk proyek
-      Anda.
+      Kami sangat menghargai ulasan positif Anda. Terima kasih atas
+      kepercayaannya!
     rating: 5
